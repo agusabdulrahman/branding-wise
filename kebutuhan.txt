@@ -1,0 +1,10 @@
+# Copykit API Infra Requirements
+
+AWS Accunt
+AWS CLI
+AWS CDK
+TypeScript
+NodeJS
+Docker
+
+ cdk init app --language=typescript
